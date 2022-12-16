@@ -25,7 +25,7 @@ echo -e "\e[032m" "╠═▶ 3. Video 480p"
 echo -e "\e[032m" "╠═▶ 4. Video 720p"
 echo -e "\e[032m" "╠═▶ 5. Video 1080p"
 echo -e "\e[032m" "╠═▶ 6. Video 2160p"
-echo -e "\e[032m" "╠═▶ 7. Exit Termux-YTD" # Added
+echo -e "\e[032m" "╠═▶ 7. Exit Termux-YT-Downloader" # Added
 command='-no-mtime -o /data/data/com.termux/files/home/storage/shared/Youtube/%(title)s.%(ext)s -i -f'
 
 printf "\e[032m ╚═:➤  $kill_color"
