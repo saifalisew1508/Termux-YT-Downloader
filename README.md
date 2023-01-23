@@ -42,3 +42,7 @@ apt update && apt upgrade && cd && pkg install git -y && git clone https://githu
 
 <br>
 <br>
+
+
+<h3 align="center">Visitors Counts👀</h3>
+<a href="https://github.com/saifalisew1508/Termux-YT-Downloader"><img alt="Cute Count" src="https://count.getloli.com/get/@Termux-YT-Downloader?theme=rule34" /></a>
